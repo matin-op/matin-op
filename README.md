@@ -24,7 +24,7 @@
 | **Laptop Advisor AI** | RAG-based chatbot that recommends laptops using a self-built knowledge base | LangChain, Gemini API, ChromaDB, Streamlit |
 
 
-- 🔗 [Laptop Advisor AI](https://github.com/yourusername/laptop-advisor-ai)
+- 🔗 [Laptop Advisor AI](https://github.com/matin-op/Laptop-Advisor-AI)
 
 ---
 
